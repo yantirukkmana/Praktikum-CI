@@ -58,9 +58,6 @@
         <td><?php echo $u->posted;?></td>
         <td><?php echo $u->mediaId;?></td>
 
-        <!-- <?php echo anchor('crud/edit/'.$u->id,'Edit'); ?>
-        <?php echo anchor('crud/hapus/',$u->id,'Hapus'); ?> -->
-
         </tr>
         <?php } ?>
 
