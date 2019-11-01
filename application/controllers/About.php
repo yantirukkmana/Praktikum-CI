@@ -20,6 +20,6 @@ class About extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('nama_saya');
+		$this->load->view('Welcome.php');
     }
 }
